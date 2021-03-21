@@ -46,3 +46,6 @@ with open("data.txt") as score_score:
     content = score_score.read()
     type(content)
 screen.exitonclick()
+
+# For more of my projects, fun games and useful applicatons, 
+# please visit: https://github.com/thlouieshi?tab=repositories
